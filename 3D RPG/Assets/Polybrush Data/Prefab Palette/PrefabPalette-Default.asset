@@ -207,7 +207,7 @@ MonoBehaviour:
     name: Stump_01
   - gameObject: {fileID: 2222111361404534124, guid: 88f2fd29f58b9734683512546acec310, type: 3}
     settings:
-      m_Strength: 21.38236
+      m_Strength: 50.500008
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -223,7 +223,7 @@ MonoBehaviour:
     name: Tree_01
   - gameObject: {fileID: 4661435515762455780, guid: e289bf5debb17f6459818c207d781953, type: 3}
     settings:
-      m_Strength: 77.03782
+      m_Strength: 52.079834
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -239,7 +239,7 @@ MonoBehaviour:
     name: Tree_02
   - gameObject: {fileID: 6941765000743290380, guid: c60edd51c065ceb46b345849a03bc106, type: 3}
     settings:
-      m_Strength: 27.12185
+      m_Strength: 48.420166
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
